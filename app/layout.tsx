@@ -13,8 +13,8 @@ const figtree = Figtree({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio",
-  description: "Minimal portfolio — introduction and links",
+  title: "Zahid Fahim - Tech Lead",
+  description: "Zahid Fahim - Tech Lead - Portfolio",
 };
 
 export default function RootLayout({
